@@ -488,3 +488,11 @@
 - Name: Pokémon mini
   Id: pokemon_mini
   IgdbId: 166
+  
+- Name: Family Computer
+  Id: famicom
+  IgdbId: 99
+
+- Name: Super Famicom
+  Id: sfam
+  IgdbId: 58
